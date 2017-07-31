@@ -3,15 +3,15 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 ### Some resources are paid and others are free. Contributions are welcome.
 
-[InterviewBit]https://www.interviewbit.com
+[InterviewBit](https://www.interviewbit.com)
 
-https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331
+[5 Key learnings from the post bootcamp job search](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 
-https://leetcode.com/
+[Leetcode](https://leetcode.com/)
 
-https://www.interviewcake.com/
+[InterviewCake](https://www.interviewcake.com/)
 
-https://www.hiredintech.com/
+[HiredInTech](https://www.hiredintech.com/)
 
 https://www.hackerrank.com/
 
