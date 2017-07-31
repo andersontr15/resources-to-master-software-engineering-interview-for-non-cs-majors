@@ -75,4 +75,5 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Algorithms - 4th edition](http://algs4.cs.princeton.edu/home/)
 
+[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/)
 
