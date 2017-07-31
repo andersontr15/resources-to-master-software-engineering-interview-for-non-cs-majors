@@ -1,7 +1,7 @@
-# Resources To Mastering Software Engineering Interview for Non-CS Majors
+# Resources To Master Software Engineering Interview for Non-CS Majors
 A collection of resources I've compiled to make it easier for non-CS majors to prepare for the standard software engineering interview. 
 
-## Some resources are paid and others are free. Contributions are welcome.
+### Some resources are paid and others are free. Contributions are welcome.
 
 https://www.interviewbit.com
 
