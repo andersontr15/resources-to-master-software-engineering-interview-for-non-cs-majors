@@ -73,6 +73,6 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [That JS Dude](http://www.thatjsdude.com/)
 
-http://algs4.cs.princeton.edu/home/
+[Algorithms - 4th edition](http://algs4.cs.princeton.edu/home/)
 
 
