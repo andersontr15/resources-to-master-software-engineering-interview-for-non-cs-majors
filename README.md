@@ -13,49 +13,49 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [HiredInTech](https://www.hiredintech.com/)
 
-https://www.hackerrank.com/
+[HackerRank](https://www.hackerrank.com/)
 
-https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
+[Here's how to prepare for tech interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 
-https://github.com/h5bp/Front-end-Developer-Interview-Questions
+[Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
-https://www.codewars.com/
+[CodeWars](https://www.codewars.com/)
 
-https://www.educative.io/collection/5642554087309312/5679846214598656/experthelp
+[Education Paid Training](https://www.educative.io/collection/5642554087309312/5679846214598656/experthelp)
 
-https://triplebyte.com/candidates
+[Triplebyte](https://triplebyte.com/candidates)
 
-https://github.com/andreis/interview
+[Andreis Github interview repo](https://github.com/andreis/interview)
 
-https://www.topcoder.com/
+[TopCoder](https://www.topcoder.com/)
 
-https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing
+[Programming-Interviews-Exposed-Secrets](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing)
 
-https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/
+[Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/)
 
-https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master
+[Pragrmattic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master)
 
-https://www.amazon.com/Code-Complete-Practical-Handbook-Construction
+[Code Complete Practical Handbook](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction)
 
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship
+[Clean Code Handbook](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship)
 
-https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented
+[Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented)
 
-https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly
+[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly)
 
-https://app.pluralsight.com/courses/developer-job-interviews
+[Pluralsight - Developer Job Interviews](https://app.pluralsight.com/courses/developer-job-interviews)
 
-https://projecteuler.net/archives
+[Project Euler](https://projecteuler.net/archives)
 
-https://www.amazon.com/Elements-Programming-Interviews-Adnan-Aziz
+[Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Adnan-Aziz)
 
-https://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen
+[Introduction To Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen)
 
-https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
+[Article - How to break into tech job hunting and interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
-https://www.coursera.org/learn/algorithms-part1
+[Coursera - Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
 
-https://www.coursera.org/learn/algorithms-part2
+[Coursera - Algorithms Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena
 
