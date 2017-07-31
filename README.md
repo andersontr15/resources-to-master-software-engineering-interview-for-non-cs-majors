@@ -29,27 +29,27 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [TopCoder](https://www.topcoder.com/)
 
-[Programming-Interviews-Exposed-Secrets](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing)
+[Programming-Interviews-Exposed-Secrets](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/ref=sr_1_1?s=books&ie=UTF8&qid=1501524790&sr=1-1&keywords=programming+interviews+exposed)
 
-[Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/)
+[Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?s=books&ie=UTF8&qid=1501524776&sr=1-1&keywords=algorithm+design+manual)
 
-[Pragrmattic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master)
+[Pragmattic Programmer](hhttps://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1501524762&sr=1-1-spell&keywords=pragmatti)
 
-[Code Complete Practical Handbook](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction)
+[Code Complete Practical Handbook](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?s=books&ie=UTF8&qid=1501524736&sr=1-1&keywords=code+complete)
 
-[Clean Code Handbook](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship)
+[Clean Code Handbook](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1501524706&sr=8-1&keywords=Clean-Code-Handbook-Software-Craftsmanship)
 
-[Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented)
+[Design Patterns](hhttps://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1501524802&sr=1-1&keywords=design+patterns)
 
-[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly)
+[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1501524815&sr=1-1&keywords=head+first+design+patterns)
 
 [Pluralsight - Developer Job Interviews](https://app.pluralsight.com/courses/developer-job-interviews)
 
 [Project Euler](https://projecteuler.net/archives)
 
-[Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Adnan-Aziz)
+[Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=sr_1_4?s=books&ie=UTF8&qid=1501524835&sr=1-4&keywords=elements+of+programming+interviews)
 
-[Introduction To Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen)
+[Introduction To Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1501524892&sr=1-1&keywords=introduction+to+algorithms)
 
 [Article - How to break into tech job hunting and interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
@@ -76,4 +76,6 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 [Algorithms - 4th edition](http://algs4.cs.princeton.edu/home/)
 
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1501524591&sr=8-1&keywords=cracking+the+coding+interview)
+
+[Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?s=books&ie=UTF8&qid=1501524905&sr=1-1&keywords=programming+pearls)
 
