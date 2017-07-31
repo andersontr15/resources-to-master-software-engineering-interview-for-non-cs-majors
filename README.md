@@ -57,23 +57,21 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Coursera - Algorithms Part 2](https://www.coursera.org/learn/algorithms-part2)
 
-https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena
+[High Scalability](http://highscalability.com/all-time-favorites/)
 
-http://highscalability.com/all-time-favorites/
+[What really happens when you navigate to a url](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/comment-page-3/)
 
-http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/comment-page-3/
+[Big O Cheat Sheet](http://bigocheatsheet.com/)
 
-http://bigocheatsheet.com/
+[SkillCrush Rock Your Next Whiteboard test](https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/)
 
-https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/
+[Quora - How do I prepare for a software engineering job interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview)
 
-https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview
+[Fundamentals of algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
-http://www.geeksforgeeks.org/fundamentals-of-algorithms/
+[Beta Free Code Camp](http://beta.freecodecamp.com/en/)
 
-http://beta.freecodecamp.com/en/
-
-http://www.thatjsdude.com/
+[That JS Dude](http://www.thatjsdude.com/)
 
 http://algs4.cs.princeton.edu/home/
 
