@@ -3,7 +3,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 ### Some resources are paid and others are free. Contributions are welcome.
 
-https://www.interviewbit.com
+[InterviewBit]https://www.interviewbit.com
 
 https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331
 
