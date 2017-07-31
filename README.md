@@ -21,7 +21,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [CodeWars](https://www.codewars.com/)
 
-[Education Paid Training](https://www.educative.io/collection/5642554087309312/5679846214598656/experthelp)
+[Educative Paid Training](https://www.educative.io/collection/5642554087309312/5679846214598656/experthelp)
 
 [Triplebyte](https://triplebyte.com/candidates)
 
