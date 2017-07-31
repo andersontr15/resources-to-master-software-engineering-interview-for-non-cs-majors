@@ -1,10 +1,9 @@
 # Resources To Master Software Engineering Interview for Non-CS Majors
-A collection of resources I've compiled to make it easier for non-CS majors to prepare for the standard software engineering interview. 
 
-### Some resources are paid and others are free. Contributions are welcome.
+A collection of resources I've compiled to make it easier for non-CS majors to prepare for the standard software engineering interview. Some resources are paid and others are free. Contributions are welcome.
 
 
-#### Software Design and Architecture 
+### Software Design and Architecture 
 
 [Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?s=books&ie=UTF8&qid=1501524776&sr=1-1&keywords=algorithm+design+manual)
 
@@ -23,7 +22,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
 
-#### Fully fledged software engineering interview sites 
+### Fully fledged software engineering interview sites 
 
 [InterviewBit](https://www.interviewbit.com)
 
@@ -31,7 +30,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Educative Paid Training](https://www.educative.io/collection/5642554087309312/5679846214598656/experthelp)
 
-#### Algorithms and data structures review 
+### Algorithms and data structures review 
 
 [Leetcode](https://leetcode.com/)
 
@@ -45,7 +44,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Project Euler](https://projecteuler.net/archives)
 
-#### Algorithm books, courses and articles
+### Algorithm books, courses and articles
 
 [Introduction To Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1501524892&sr=1-1&keywords=introduction+to+algorithms)
 
@@ -58,7 +57,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 [Fundamentals of algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 
-#### Tips / Additonal resources for acing interviews 
+### Tips / Additonal resources for acing interviews 
 
 [Quora - How do I prepare for a software engineering job interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview)
 
@@ -77,7 +76,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 [SkillCrush Rock Your Next Whiteboard test](https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/)
 
 
-#### Books and courses on passing technical interviews for software engineers
+### Books and courses on passing technical interviews for software engineers
 
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1501524591&sr=8-1&keywords=cracking+the+coding+interview)
 
