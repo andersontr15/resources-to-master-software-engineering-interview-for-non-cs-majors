@@ -7,7 +7,7 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?s=books&ie=UTF8&qid=1501524776&sr=1-1&keywords=algorithm+design+manual)
 
-[Pragmattic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1501524762&sr=1-1-spell&keywords=pragmatti)
+[Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1501524762&sr=1-1-spell&keywords=pragmatti)
 
 [Code Complete Practical Handbook](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?s=books&ie=UTF8&qid=1501524736&sr=1-1&keywords=code+complete)
 
