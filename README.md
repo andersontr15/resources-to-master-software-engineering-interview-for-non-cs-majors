@@ -63,6 +63,8 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [5 Key learnings from the post bootcamp job search](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 
+[How I got a React developer job during my 100 days code challenge](https://medium.freecodecamp.org/got-a-react-developer-job-during-my-100dayscodechallenge-f455175d3776)
+
 [Here's how to prepare for tech interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 
 [Article - How to break into tech job hunting and interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
