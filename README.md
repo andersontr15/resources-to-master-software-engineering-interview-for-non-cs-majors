@@ -79,6 +79,8 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [SkillCrush Rock Your Next Whiteboard test](https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/)
 
+[How to ace software engineering interview](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
+
 
 ## Books and courses on passing technical interviews for software engineers
 
