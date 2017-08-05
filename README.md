@@ -56,6 +56,8 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Fundamentals of algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
+[Khan Academy algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms)
+
 
 ## Tips / Additonal resources for acing interviews 
 
