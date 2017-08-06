@@ -44,6 +44,10 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Project Euler](https://projecteuler.net/archives) [ ]
 
+[Data Structures in Javascript with Visualizations & Hands-on Exercises](https://www.educative.io/collection/10370001/160001) [ ]
+
+[Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust) [ ]
+
 ## Algorithm books, courses and articles
 
 [Introduction To Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1501524892&sr=1-1&keywords=introduction+to+algorithms) [ ]
