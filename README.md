@@ -48,6 +48,8 @@ A collection of resources I've compiled to make it easier for non-CS majors to p
 
 [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust) [ ]
 
+[A Visual Introduction To Algorithms](https://www.educative.io/collection/10370001/760001?authorName=Educative) [ ]
+
 ## Algorithm books, courses and articles
 
 [Introduction To Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1501524892&sr=1-1&keywords=introduction+to+algorithms) [ ]
