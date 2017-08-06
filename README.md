@@ -2,6 +2,8 @@
 
 A collection of resources I've compiled to make it easier for non-CS majors to prepare for the standard software engineering interview. Some resources are paid and others are free. Contributions are welcome.
 
+If you fork the repo, check the boxes after you have completed reviewing the material. 
+
 
 ## Software Design and Architecture 
 
