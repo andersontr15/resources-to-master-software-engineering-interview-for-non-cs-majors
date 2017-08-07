@@ -102,7 +102,7 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=sr_1_4?s=books&ie=UTF8&qid=1501524835&sr=1-4&keywords=elements+of+programming+interviews) [ ]
 
-[Programming Code Interview - Udemy](https://www.udemy.com/programming-code-interview/)
+[Programming Code Interview - Udemy](https://www.udemy.com/programming-code-interview/) [ ]
 
 
 ## Sites that help qualified candidates land jobs with well known companies
