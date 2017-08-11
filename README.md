@@ -36,7 +36,7 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [Leetcode](https://leetcode.com/) [ ]
 
-[InterviewCake](https://www.interviewcake.com/) [ ]
+[InterviewCake](https://www.interviewcake.com/) [ ] $199 for 12 month subscription. 
 
 [HackerRank](https://www.hackerrank.com/) [ ]
 
