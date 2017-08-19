@@ -38,14 +38,6 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [InterviewCake](https://www.interviewcake.com/) [ ] $199 for 12 month subscription. 
 
-[HackerRank](https://www.hackerrank.com/) [ ]
-
-[CodeWars](https://www.codewars.com/) [ ]
-
-[TopCoder](https://www.topcoder.com/) [ ]
-
-[Project Euler](https://projecteuler.net/archives) [ ]
-
 [Data Structures in Javascript with Visualizations & Hands-on Exercises](https://www.educative.io/collection/10370001/160001) [ ]
 
 [Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust) [ ]
@@ -59,13 +51,6 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 [Coursera - Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1) [ ]
  
 [Coursera - Algorithms Part 2](https://www.coursera.org/learn/algorithms-part2) [ ]
-
-[Algorithms - 4th edition](http://algs4.cs.princeton.edu/home/) [ ]
-
-[Fundamentals of algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) [ ]
-
-[Khan Academy algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms) [ ]
-
 
 ## Tips / Additonal resources for acing interviews 
 
@@ -93,8 +78,6 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 ## Books and courses on passing technical interviews for software engineers
 
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1501524591&sr=8-1&keywords=cracking+the+coding+interview) [ ]
-
-[Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?s=books&ie=UTF8&qid=1501524905&sr=1-1&keywords=programming+pearls) [ ]
 
 [Programming-Interviews-Exposed-Secrets](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/ref=sr_1_1?s=books&ie=UTF8&qid=1501524790&sr=1-1&keywords=programming+interviews+exposed) [ ]
 
