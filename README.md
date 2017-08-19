@@ -92,6 +92,10 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [Triplebyte](https://triplebyte.com/candidates) [ ]
 
+## SQL
+
+[SQL Zoo](https://sqlzoo.net/)
+
 
 ## JavaScript specific resources
 
