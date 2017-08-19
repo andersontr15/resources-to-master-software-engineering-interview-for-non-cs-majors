@@ -56,7 +56,7 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [Quora - How do I prepare for a software engineering job interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview) [ ]
 
-[5 Key learnings from the post bootcamp job search](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331) [ ]
+[5 Key learnings from the post bootcamp job search](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331) [X]
 
 [How I got a React developer job during my 100 days code challenge](https://medium.freecodecamp.org/got-a-react-developer-job-during-my-100dayscodechallenge-f455175d3776) [X]
 
