@@ -44,9 +44,7 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [A Visual Introduction To Algorithms](https://www.educative.io/collection/10370001/760001?authorName=Educative) [ ]
 
-## Algorithm books, courses and articles
-
-[Introduction To Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1501524892&sr=1-1&keywords=introduction+to+algorithms) [ ]
+## Algorithm courses
 
 [Coursera - Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1) [ ]
  
