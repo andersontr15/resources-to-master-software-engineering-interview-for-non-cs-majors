@@ -81,7 +81,7 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [Programming-Interviews-Exposed-Secrets](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/ref=sr_1_1?s=books&ie=UTF8&qid=1501524790&sr=1-1&keywords=programming+interviews+exposed) [ ]
 
-[Pluralsight - Developer Job Interviews](https://app.pluralsight.com/courses/developer-job-interviews) [ ]
+[Pluralsight - Developer Job Interviews](https://app.pluralsight.com/courses/developer-job-interviews) [X]
 
 [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=sr_1_4?s=books&ie=UTF8&qid=1501524835&sr=1-4&keywords=elements+of+programming+interviews) [ ]
 
