@@ -31,8 +31,3 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 ## Books and courses on passing technical interviews for software engineers
 
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1501524591&sr=8-1&keywords=cracking+the+coding+interview) [ ]
-
-
-## Sites that help qualified candidates land jobs with well known companies
-
-[Triplebyte](https://triplebyte.com/candidates) [ ]
