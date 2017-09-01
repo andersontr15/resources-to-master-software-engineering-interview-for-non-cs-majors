@@ -26,8 +26,6 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [Data Structures in Javascript with Visualizations & Hands-on Exercises](https://www.educative.io/collection/10370001/160001) [ ]
 
-[Coderust 2.0: Faster Coding Interview Preparation using Interactive Visualizations](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust) [ ]
-
 ## Books and courses on passing technical interviews for software engineers
 
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1501524591&sr=8-1&keywords=cracking+the+coding+interview) [ ]
