@@ -7,13 +7,7 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 ## Software Design and Architecture 
 
-[Clean Code Handbook](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1501524706&sr=8-1&keywords=Clean-Code-Handbook-Software-Craftsmanship) [ ]
-
-[Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1501524802&sr=1-1&keywords=design+patterns) [ ]
-
 [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1501524815&sr=1-1&keywords=head+first+design+patterns) [ ]
-
-[High Scalability](http://highscalability.com/all-time-favorites/) [ ]
  
 [Big O Cheat Sheet](http://bigocheatsheet.com/) [ ]
 
@@ -42,7 +36,3 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 ## Sites that help qualified candidates land jobs with well known companies
 
 [Triplebyte](https://triplebyte.com/candidates) [ ]
-
-## SQL
-
-[SQL Zoo](https://sqlzoo.net/) [ ]
