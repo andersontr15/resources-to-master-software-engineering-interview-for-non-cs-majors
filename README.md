@@ -16,8 +16,6 @@ If you fork the repo, check the boxes after you have completed reviewing the mat
 
 [InterviewBit](https://www.interviewbit.com) [ ]
 
-[HiredInTech](https://www.hiredintech.com/) [ ]
-
 ## Algorithms and data structures review 
 
 [Leetcode](https://leetcode.com/) [ ]
